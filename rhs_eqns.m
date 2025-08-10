@@ -1,3 +1,7 @@
+%% This file derives the dynamics of the Segway.
+%   - zdot contains the full non-linear dynamics.
+%   - A_num, B_num contains the linearized state space representation %%
+
 clc;
 clear all;
 

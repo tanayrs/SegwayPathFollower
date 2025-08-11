@@ -3,6 +3,16 @@
 ## Introduction
 The goal of this project is to develop a 3-D trajectory tracking controller for a Segway in simulation. The work begins with a complete derivation of the Equations of Motion (EoM), followed by the design of PID controllers for balancing and steering, and LQR controllers for balancing and steering. Additionally, waypoint generators and controllers are implemented to update the target pose and trace the desired trajectory. This project was undertaken as part of the RO3003: Control, Autonomy, Planning, and Navigation course.
 
+## Demos
+
+### Trajectory Tracking of Sin Wave
+
+https://github.com/user-attachments/assets/ea6afb2e-3468-484c-8e0a-522d5fc666c6
+
+### Trajectory Tracking of Triangle Wave
+
+https://github.com/user-attachments/assets/f8cc0550-59dc-426c-8381-95651eca95e8
+
 ## File Structure
 
 ### Top-Level

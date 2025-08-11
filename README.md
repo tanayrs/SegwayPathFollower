@@ -1,7 +1,7 @@
 # Segway Trajectory Tracking Simulation
 
-## Overview
-This repository contains a MATLAB-based simulation for trajectory tracking of a Segway robot in 3D. The project models the Segway's nonlinear and linear dynamics, implements various controllers (PID and LQR), and visualizes the robot's motion as it follows a set of waypoints.
+## Introduction
+The goal of this project is to develop a 3-D trajectory tracking controller for a Segway in simulation. The work begins with a complete derivation of the Equations of Motion (EoM), followed by the design of PID controllers for balancing and steering, and LQR controllers for balancing and steering. Additionally, waypoint generators and controllers are implemented to update the target pose and trace the desired trajectory. This project was undertaken as part of the RO3003: Control, Autonomy, Planning, and Navigation course.
 
 ## File Structure
 
